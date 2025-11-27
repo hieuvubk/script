@@ -1,7 +1,6 @@
 {
-    "pubkey": {"@type":"/cosmos.crypto.ed25519.PubKey","key":"jZOyc7dpUaEYVldurpSDJ0NByrW1RshC/wIkILG8GL8="},
-    "contract-address": "0x2575AC10896108D30290d37928fA3DB314220007",
-    "amount": "1000000000000000000000",
+    "pubkey": {"@type":"/cosmos.crypto.ed25519.PubKey","key":"udv7zsw52pOBaTarNaZcqG2tOQ1c8R/uuNOzGAPU8hg="},
+    "amount": "1000000000000000000000arst",
     "moniker": "myvalidator",
     "identity": "optional identity signature (ex. UPort or Keybase)",
     "website": "validator's (optional) website",

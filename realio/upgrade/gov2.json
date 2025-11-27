@@ -4,17 +4,17 @@
       "@type": "/cosmos.gov.v1.MsgExecLegacyContent",
       "content": {
        "@type": "/multistaking.v1.AddMultiStakingEVMCoinProposal",
-       "title": "t",
-       "description": "t",
-       "contract_address": "0x2575AC10896108D30290d37928fA3DB314220007",
+       "title": "Onboard District token (DSTRX) as fourth multistaking coin",
+       "description": "Onboard District token (DSTRX) as fourth multistaking coin",
+       "contract_address": "0xb841f365d5221bed66d60e69094418d8c2aa5a44",
        "bond_weight": "1.0"
       },
       "authority": "realio10d07y265gmmuvt4z0w9aw880jnsr700jnhh02f"
      }
     ],
     "metadata": "ipfs://CID",
-    "deposit": "1000000000ario",
-    "title": "t",
-    "summary": "t",
+    "deposit": "1000000000000000000000ario",
+    "title": "Onboard District token (DSTRX) as fourth multistaking coin",
+    "summary": "Onboard District token (DSTRX) as fourth multistaking coin",
     "expedited": false
    }

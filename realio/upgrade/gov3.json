@@ -1,0 +1,19 @@
+{
+    "messages": [
+     {
+      "@type": "/cosmos.gov.v1.MsgExecLegacyContent",
+      "content": {
+       "@type": "/multistaking.v1.RemoveMultiStakingCoinProposal",
+       "title": "Remove $LMX as a Multistaking Token",
+       "description": "Proposal to remove $LMX as a multistaking token on the Realio Network. All existing $LMX delegations will be undelegated, and tokens will be returned to users after the 7-day unbonding period.",
+       "denom": "almx"
+      },
+      "authority": "realio10d07y265gmmuvt4z0w9aw880jnsr700jnhh02f"
+     }
+    ],
+    "metadata": "ipfs://CID",
+    "deposit": "1000000000000000000000ario",
+    "title": "Remove $LMX as a Multistaking Token",
+    "summary": "Remove $LMX as a Multistaking Token",
+    "expedited": false
+   }
